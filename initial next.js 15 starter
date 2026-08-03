@@ -1,0 +1,22 @@
+Sunflower-Coast-Platform/
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   ├── globals.css
+│   ├── marketplace/
+│   ├── popup-parties/
+│   ├── blog/
+│   ├── contact/
+│   └── admin/
+├── components/
+├── lib/
+├── public/
+├── styles/
+├── package.json
+├── tsconfig.json
+├── tailwind.config.ts
+├── postcss.config.js
+├── next.config.ts
+├── eslint.config.mjs
+├── README.md
+└── ...
